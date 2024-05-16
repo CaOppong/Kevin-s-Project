@@ -1,0 +1,10 @@
+C:\RAVE - SOFT DES & DEV\KevinProject\Kevin\obj\Debug\Kevin.csproj.AssemblyReference.cache
+C:\RAVE - SOFT DES & DEV\KevinProject\Kevin\obj\Debug\Kevin.Properties.Resources.resources
+C:\RAVE - SOFT DES & DEV\KevinProject\Kevin\obj\Debug\Kevin.csproj.GenerateResource.cache
+C:\RAVE - SOFT DES & DEV\KevinProject\Kevin\obj\Debug\Kevin.csproj.CoreCompileInputs.cache
+C:\RAVE - SOFT DES & DEV\KevinProject\Kevin\bin\Debug\Kevin.exe.config
+C:\RAVE - SOFT DES & DEV\KevinProject\Kevin\bin\Debug\Kevin.exe
+C:\RAVE - SOFT DES & DEV\KevinProject\Kevin\bin\Debug\Kevin.pdb
+C:\RAVE - SOFT DES & DEV\KevinProject\Kevin\obj\Debug\Kevin.Form1.resources
+C:\RAVE - SOFT DES & DEV\KevinProject\Kevin\obj\Debug\Kevin.exe
+C:\RAVE - SOFT DES & DEV\KevinProject\Kevin\obj\Debug\Kevin.pdb
